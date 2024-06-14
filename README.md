@@ -4,7 +4,10 @@
 
 I am a second-year Computer Science student at Universitas Gadjah Mada specializing in Software Development, especially Frontend Development. Currently learning Backend Development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvaDvaD)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/BlueBeret" float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dvadvad&theme=highcontrast&show_icons=true&count_private=true&hide_border=true" height="180px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvadvad&layout=compact&theme=highcontrast&count_private=true&hide_border=true" height="180px" />
+</a>
 
 ## Tech stack/skills
 
